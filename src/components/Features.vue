@@ -1,8 +1,8 @@
 <template>
-	<section class="features py-5">
+	<section class="features py-5 bg-white">
 		<div class="container">
 			<div class="features-top text-center mb-5">
-				<h2>How It Works</h2>
+				<h2>Features</h2>
 			</div>
 			<div class="row">
 				<div class="col-4 text-center" v-for="x in 3">
