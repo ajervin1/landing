@@ -2,10 +2,10 @@
 	<section class="appraisal bg-success py-5">
 		<div class="container">
 			<div class="row">
-				<div class="col-3">
+				<div class="col-md-3 text-center text-md-left">
 					<img src="https://hviorder.ca/img/max.svg" class="">
 				</div>
-				<div class="col-7 text-white align-self-center">
+				<div class="col-md-7 text-center text-md-left text-white align-self-center">
 					<h1 class="text-white">The easiest way to order an appraisal online</h1>
 					<p class="text-body">
 						Meet Max. Max is our spokesdog. You’ll see him around various parts of the

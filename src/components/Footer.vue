@@ -2,7 +2,7 @@
 	<footer class="bg-dark py-5">
 		<div class="container">
 			<div class="row justify-content-between">
-				<div class="col-4">
+				<div class="col-md-4 text-center">
 					<img width="200px" src="https://hviorder.ca/img/hvi-logo-hvi-white.svg"
 					     class="mb-4">
 					<p class="text-white-50">
@@ -15,9 +15,9 @@
 						of Professional Appraisal Practice.
 					</p>
 				</div>
-				<div class="col-4">
+				<div class="col-md-4 text-center text-md-left">
 					<h6 class="text-white mb-3">Social Media</h6>
-					<nav class="d-flex">
+					<nav class="d-flex justify-content-center justify-content-md-start">
 						<a href="" class="">
 							<i class="fab fa-facebook text-white fa-2x mr-4"></i>
 						

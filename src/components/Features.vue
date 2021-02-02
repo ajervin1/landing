@@ -5,7 +5,7 @@
 				<h2>Features</h2>
 			</div>
 			<div class="row">
-				<div class="col-4 text-center" v-for="x in 3">
+				<div class="col-md-4 text-center" v-for="x in 3">
 					<article class="card">
 				
 						<div class="card-body">
