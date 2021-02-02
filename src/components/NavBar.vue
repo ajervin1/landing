@@ -3,7 +3,7 @@
 		
 		<header class="navbar navbar-expand-lg navbar-dark bg-dark">
 			<div class="container">
-				<div class="logo w-25">
+				<div class="logo col-6 col-md-3">
 					<img src="https://hviorder.ca/img/hvi-logo-ots.svg" class="img-fluid">
 				</div>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nav" >
