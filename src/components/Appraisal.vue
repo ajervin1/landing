@@ -8,9 +8,9 @@
 				<div class="col-md-7 text-center text-md-left text-white align-self-center">
 					<h1 class="text-white">The easiest way to order an appraisal online</h1>
 					<p class="text-body">
-						Meet Max. Max is our spokesdog. You’ll see him around various parts of the
-						website helping out and providing useful tips. He's also available for live chat
-						if you have any questions. Feel free to send him a message.
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci autem
+						dolore dolorum ducimus eum libero omnis perferendis quibusdam soluta
+						temporibus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem, tempore?
 					</p>
 					<div class="auth-buttons">
 						<button class="btn btn-primary mr-3 shadow-lg">Sign Up</button>
